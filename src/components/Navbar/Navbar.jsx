@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import style from "./Navbar.module.css"
 import logo from "../../assets/freshcart-logo.svg"
 import { Link, useNavigate } from 'react-router-dom'
-import { UserContext } from '../../context/userContext'
+import { UserContext } from '../../context/UserContext'
 import Signout from './../Signout/Signout';
 import { CartContext } from '../../context/CartContext'
 
