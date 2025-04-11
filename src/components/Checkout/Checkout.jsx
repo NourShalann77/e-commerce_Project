@@ -3,7 +3,7 @@ import { useContext } from 'react';
 import { useFormik } from 'formik'
 import method from './../../../node_modules/lodash-es/method';
 import axios from 'axios';
-import { UserContext } from '../../context/userContext';
+import { UserContext } from '../../context/UserContext';
 import { CartContext } from '../../context/CartContext';
 
 export default function Checkout() { 
