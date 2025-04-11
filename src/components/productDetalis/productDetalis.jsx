@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import style from "./ProductDetalis.module.css"
+import style from "./productDetalis.module.css"
 import { Link, useParams } from 'react-router-dom'
 import axios from 'axios';
 // import Categories from './../Categories/Categories';

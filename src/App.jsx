@@ -13,7 +13,7 @@ import Brands from './components/Brands/Brands';
 import CounterContextProvider from "./context/CounterContext"
 import UserContextProvider, { UserContext } from './context/UserContext';
 import ProtectedRoute from './components/ProtectedRoute/ProtectedRoute';
-import ProductDetalis from './components/productDetalis/productDetalis';
+import ProductDetalis from './components/productDetalis/ProductDetalis';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools/production';
 import CartContextProvider  ,{ CartContext } from './context/CartContext';
