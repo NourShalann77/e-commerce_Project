@@ -8,7 +8,7 @@ import Login from './components/Login/Login';
 import Register from './components/Register/Register';
 import Signout from './components/Signout/Signout';
 import Notfound from './components/Notfound/Notfound';
-import Home from './components/home/Home';
+import Home from './components/Home/Home';
 import Brands from './components/Brands/Brands';
 import CounterContextProvider from "./context/CounterContext"
 import UserContextProvider, { UserContext } from './context/userContext';
