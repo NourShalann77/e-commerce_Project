@@ -11,7 +11,7 @@ import Notfound from './components/Notfound/Notfound';
 import Home from './components/Home/Home';
 import Brands from './components/Brands/Brands';
 import CounterContextProvider from "./context/CounterContext"
-import UserContextProvider, { UserContext } from './context/userContext';
+import UserContextProvider, { UserContext } from './context/UserContext';
 import ProtectedRoute from './components/ProtectedRoute/ProtectedRoute';
 import ProductDetalis from './components/productDetalis/productDetalis';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
